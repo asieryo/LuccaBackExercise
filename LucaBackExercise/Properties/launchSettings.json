@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LucaBackExercise": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\asier\\Desktop\\LuccaExercise.txt"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucaBackExercise", "LucaBackExercise\LucaBackExercise.csproj", "{D96D8EB6-118D-4A25-906D-A99DCDD3AA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		test|Any CPU = test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96D8EB6-118D-4A25-906D-A99DCDD3AA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96D8EB6-118D-4A25-906D-A99DCDD3AA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96D8EB6-118D-4A25-906D-A99DCDD3AA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96D8EB6-118D-4A25-906D-A99DCDD3AA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96D8EB6-118D-4A25-906D-A99DCDD3AA4E}.test|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96D8EB6-118D-4A25-906D-A99DCDD3AA4E}.test|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B42945-13E6-4D02-8E64-C6CD4DD08B3C}
+	EndGlobalSection
+EndGlobal
